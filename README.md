@@ -1,3 +1,9 @@
+# 📌 How do i play?
+
+You can play the turbowarp version: https://turbowarp.org/860859747?hqpen&clones=Infinity&size=600x360&fps=120
+
+The Scratch version will be more updated then the exe.
+
 # FNF Viina Edition
 Official repo for "Friday Night Funkin' Viina Edition"
 
@@ -11,8 +17,3 @@ Me (ZxverOwner)
 And My 2 Cousins
 
 The scratch version is more updated then the pc version.
-
-# How do i play?
-You can play the turbowarp version: https://turbowarp.org/860859747?hqpen&clones=Infinity&size=600x360&fps=120
-
-Exe's will come not as quick as the scratch version.
